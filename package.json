@@ -5,7 +5,9 @@
   "author": "www.dawidrylko.com",
   "license": "ISC",
   "homepage": "https://github.com/dawidrylko/spy-messanger#readme",
-  "main": "index.js",
+  "script": {
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dawidrylko/spy-messanger.git"
