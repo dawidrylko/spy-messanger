@@ -5,6 +5,7 @@
   "author": "www.dawidrylko.com",
   "license": "ISC",
   "homepage": "https://github.com/dawidrylko/spy-messanger#readme",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dawidrylko/spy-messanger.git"
@@ -15,5 +16,11 @@
   ],
   "bugs": {
     "url": "https://github.com/dawidrylko/spy-messanger/issues"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "node-wit": "^4.3.0",
+    "request": "^2.81.0"
   }
 }
