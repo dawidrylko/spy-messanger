@@ -2,7 +2,9 @@
   "name": "spy-messanger",
   "version": "1.0.0",
   "description": "Spy chatbot messanger app.",
-  "main": "index.js",
+  "author": "www.dawidrylko.com",
+  "license": "ISC",
+  "homepage": "https://github.com/dawidrylko/spy-messanger#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dawidrylko/spy-messanger.git"
@@ -11,8 +13,6 @@
     "bot",
     "wit.ai"
   ],
-  "author": "www.dawidrylko.com",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/dawidrylko/spy-messanger/issues"
   }
